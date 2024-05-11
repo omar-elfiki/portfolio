@@ -48,7 +48,7 @@ export default function Home() {
             <div className="absolute left-[800px] scrollable-section">
                 <div id="about" className="font-normal inline-block w-[600px] h-[46px]">
                     <p className="mb-4">My name is <strong><a href="https://www.linkedin.com/in/omarelfiki" target="_blank" rel="noopener" className="hover-blue">Omar Elfiki</a></strong> and I&apos;m an aspiring undergraduate computer science student at <strong><a href="https://www.maastrichtuniversity.nl/" target="_blank" rel="noopener" className="hover-blue">Maastricht University</a></strong> in Maastricht, The Netherlands.
-                        I have a passion for software development and I'm always looking for new opportunities to learn and grow.
+                        I have a passion for software development and I&apos;m always looking for new opportunities to learn and grow.
                         I have experience in full-stack <strong><a href="https://flutter.dev/" target="_blank" rel="noopener" className="hover-blue">Flutter</a></strong> and <strong><a href="https://dart.dev/" target="_blank" rel="noopener" className="hover-blue">Dart</a></strong> mobile development for all platforms and I&apos;m always looking for new projects to work on.</p>
                     <p className="mb-4">I have also enjoyed training in the cloud computing field with <strong><a href="https://aws.amazon.com/" target="_blank" rel="noopener" className="hover-blue">Amazon Web Services</a></strong> to soon become an AWS Cloud Practicioner certifcation holder.
                         I have worked with Amazon EC2, Amazon S3, AWS Lambda, Amazon RCS, Amazon VPC and much more.</p>
