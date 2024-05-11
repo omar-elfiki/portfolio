@@ -1,0 +1,46 @@
+.link-normal {
+    display: block;
+}
+
+.link-hover {
+    display: none;
+}
+
+.link-container:hover .link-normal {
+    display: none;
+}
+
+.link-container:hover .link-hover {
+    display: block;
+}
+
+.bullet-point {
+    display: flex;
+    align-items: center;
+}
+
+.bullet-point::before {
+    content: '';
+    display: inline-block;
+    width: 1em; /* Adjust the width to control the length of the line */
+    height: 1px; /* Adjust the height to control the thickness of the line */
+    margin-right: 10px;
+    border-top: 1px solid white; /* Use border-top instead of border-left */
+}
+
+.scrollable-section {
+    max-height: 600px; /* Adjust to the maximum height you want */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.hover-blue:hover {
+    color: rgb(80, 173, 250);
+}
+
+.light-blue {
+    background-color: #add8e6;
+}
