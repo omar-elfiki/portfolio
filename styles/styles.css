@@ -29,7 +29,12 @@
 }
 
 .scrollable-section {
-    max-height: 600px; /* Adjust to the maximum height you want */
+    max-height: 500px; /* Adjust to the maximum height you want */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.scrollable-section-mobile {
+    max-height: 350px; /* Adjust to the maximum height you want */
     overflow-y: auto; /* Enable vertical scrolling */
 }
 
