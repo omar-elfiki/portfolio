@@ -1,3 +1,1 @@
-This is a [Next.js](https://nextjs.org/) project.
-
-## Omar Elfiki's Portfolio V1. Inspired by Brittany Chiang
+Designed with [Figma](https://www.figma.com/) and coded in [Virtual Studio Code](https://code.visualstudio.com/). Built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/), deployed with [Vercel](https://vercel.com/). Inspired by Brittany Chiang. Icons by [Icons8](https://icons8.com/). Form hosted by [Formspree.io](https://formspree.io/). All text is in [Inter](https://fonts.google.com/specimen/Inter) typeface.

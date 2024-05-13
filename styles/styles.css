@@ -22,15 +22,10 @@
 .bullet-point::before {
     content: '';
     display: inline-block;
-    width: 1em; /* Adjust the width to control the length of the line */
-    height: 1px; /* Adjust the height to control the thickness of the line */
+    width: 2em; /* Adjust the width to control the length of the line */
+    height: 2px; /* Adjust the height to control the thickness of the line */
     margin-right: 10px;
-    border-top: 1px solid white; /* Use border-top instead of border-left */
-}
-
-.scrollable-section {
-    max-height: 500px; /* Adjust to the maximum height you want */
-    overflow-y: auto; /* Enable vertical scrolling */
+    border-top: 2px solid white; /* Use border-top instead of border-left */
 }
 
 .scrollable-section-mobile {
